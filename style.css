@@ -23,7 +23,7 @@ main{
 
 #face{
    --leet-axis: 0;
-	font-size: 68px;
+	font-size: 72px;
    line-height: 1.5;
    transition: color 300ms linear;
    font-variation-settings: 'leet' var(--leet-axis);
